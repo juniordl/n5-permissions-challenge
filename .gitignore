@@ -1,0 +1,11 @@
+.vs
+N5.Permissions/bin
+N5.Permissions/obj
+N5.Permissions.API/bin
+N5.Permissions.API/obj
+N5.Permissions.Application/bin
+N5.Permissions.Application/obj
+N5.Permissions.Domain/bin
+N5.Permissions.Domain/obj
+N5.Permissions.Infrastructure/bin
+N5.Permissions.Infrastructure/obj
